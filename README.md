@@ -25,6 +25,8 @@ python zkp_demo.py
 
 This will launch a graphical user interface (GUI) where you can input the desired thresholds for age and blood pressure verification. Click the "Run ZKP Verification" button to initiate the verification process. The script will display the verification results without revealing the actual values of the prover's age and blood pressure.
 
+![ZKP demo](ZKP-demo.png)
+
 ## Research Paper
 
 The paper was written as the final project for the Cryptology class during my Master's Degree. It provides an exploration of ZKPs and their potential applications in the healthcare domain. 
